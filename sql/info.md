@@ -1,4 +1,5 @@
 # Révision Globale sur SQL
+pour sql envoie votre base de donnner a ai pour te donner les challenge possible
 
 ## Concepts Fondamentaux
 
