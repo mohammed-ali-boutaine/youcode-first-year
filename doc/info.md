@@ -4,7 +4,6 @@
 
 Docker est un outil qui permet de créer, déployer et exécuter des applications dans des environnements isolés appelés conteneurs.
 
-- **Plateforme de virtualisation** : Permet de créer et gérer des conteneurs.
 - **Image** : Modèle (blueprint) pour créer des conteneurs.
 - **Conteneur** : Instance d'une image Docker, un environnement pour exécuter une application.
 
